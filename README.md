@@ -29,4 +29,5 @@ There are three individual notebooks for audio classification included in this r
 You'll find any relevant licensing information below:
 
 ESC-50 dataset - (https://github.com/karolpiczak/ESC-50) - Refer to License/esc50_license.txt</br>
-dcase2018 dataset - (https://github.com/DCASE-REPO/dcase2018_baseline) - Refer to License/dcase2018_license.csv
+dcase2018 dataset - (https://github.com/DCASE-REPO/dcase2018_baseline) - Refer to License/dcase2018_license.csv</br>
+Youtube clips - Refer to License/youtube_license.txt
