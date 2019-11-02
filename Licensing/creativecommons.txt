@@ -1,0 +1,3 @@
+The original audio files collected by our team members, generally labeled "recording_<number>" or alternatively "SoundName_<number>",
+are avialiable under the Creative Commons Attribution 4 International License. If you would like to use any of the data present in this 
+repo, please cite our paper and use the appropriate licenses. Thank you in advance!
