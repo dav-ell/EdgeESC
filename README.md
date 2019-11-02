@@ -1,4 +1,4 @@
-# AudioClassification
+# EdgeESC
 This repository contains the notebooks and data referenced in the paper "PAPER NAME" - LINK<br/>
 This paper highlights our approach to classifying audio signatures in a recording by analyzing an audio signature's amplitude and MFCC. For a more in-depth explanation of how our model approaches this task we encourage you to read through the paper linked above.
 
